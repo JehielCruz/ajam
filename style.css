@@ -1,0 +1,21 @@
+#title{
+    font-family: 'Sedgwick Ave Display', cursive;
+    text-align: center;
+}
+.inst{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-weight: bolder;
+}
+.form{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-weight: bolder; 
+}
+.AdivinarEnviar{
+   background-color: rgb(164, 160, 160);
+   border-radius: 30px; 
+}
+:hover.AdivinarEnviar{
+    background-color: rgb(93, 255, 185);
+}
